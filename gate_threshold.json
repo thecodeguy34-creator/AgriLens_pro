@@ -1,0 +1,5 @@
+{
+  "threshold": 0.8,
+  "rule": "accept if p_tomato_leaf >= threshold",
+  "chosen_on": "cal split, every negative group <=5% false accepts"
+}

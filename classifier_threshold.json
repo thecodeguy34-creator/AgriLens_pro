@@ -1,0 +1,5 @@
+{
+  "threshold": 0.6,
+  "rule": "accept diagnosis if max_prob >= threshold else abstain (uncertain / retake)",
+  "chosen_on": "cal split, smallest threshold achieving >= 95% selective accuracy"
+}
